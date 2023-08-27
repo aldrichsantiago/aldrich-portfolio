@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Zaza Co.",
+        "description":"Zaza Co. is an e-commerce platform that is built with ReactJS, TypeScript, shadcn, TailwindCSS for the front-end and NodeJS, ExpressJS, DrizzleORM, PassportJS and JWT on the backend.",
+        "image":"",
+        "github":"#",
+        "link":"#"
+
+    }
+
+]
