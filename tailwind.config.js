@@ -19,6 +19,11 @@ export default {
         "2xl": "1400px",
       },
     },
+
+    fontFamily:{
+      'sans': ['Arial', 'Roboto', 'sans-serif'],
+
+    },
     extend: {},
   },
   plugins: [],

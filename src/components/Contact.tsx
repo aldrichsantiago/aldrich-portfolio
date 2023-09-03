@@ -1,5 +1,4 @@
 import React from 'react'
-import { SendHorizonal } from 'lucide-react';
 import emailjs from '@emailjs/browser';
 
 
@@ -24,7 +23,7 @@ const Contact: React.FC = () => {
             <input className="w-full h-16 px-3 text-xl font-normal border-2 border-black rounded-md my-2" type="text" id='subject' name='subject' placeholder='Subject'/>
             <textarea className="w-full p-3 text-xl font-normal border-2 border-black rounded-md my-2" rows={10} id='message' name='message' placeholder='Send me a message'></textarea>
 
-            <button className='border-2 border-white w-40 px-4 h-16 bg-emerald-700 text-white text-2xl font-sans rounded-lg flex items-center justify-center' type="submit">Send &nbsp;<SendHorizonal/> </button>
+            <button className='border-2 border-white w-40 px-4 h-16 bg-emerald-700 text-white text-2xl font-sans rounded-lg flex items-center justify-center' type="submit">Send &nbsp;</button>
 
         </form>
     </div>
